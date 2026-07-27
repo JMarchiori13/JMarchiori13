@@ -1,40 +1,75 @@
-# Marchiori
+<div align="center">
 
-**Offensive Security Research · Windows Internals · Automation**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Marchiori&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Researcher&descSize=20&descAlignY=55" width="100%"/>
 
-Security researcher focused on Windows credential access, process injection, and adversary tradecraft analysis. I publish structured, lab-validated research — every technique documented with its ATT&CK mapping, lab methodology, and expected telemetry.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Windows+Internals+%26+Credential+Access;Process+Injection+Research;Red+Team+Tradecraft+Analysis;Automation+%26%26+Maldev" alt="Typing SVG" /></a>
 
-> All research is conducted in isolated lab environments and published for educational and authorized red team purposes only.
+</div>
+
+---
+
+## 🧠 About
+
+Security researcher focused on **Windows offensive tradecraft** — credential access, process injection and adversary technique analysis. I publish structured, lab-validated research: every technique documented with its **MITRE ATT&CK mapping**, isolated **lab methodology**, and expected results per **hardening stage**.
+
+> ⚠️ All research is conducted in isolated lab environments and published for educational and authorized red team purposes only.
 
 ---
 
 ## 🔬 Featured Research
 
+<div align="center">
+
+<a href="https://github.com/JMarchiori13/cred-harvester">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=cred-harvester&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/JMarchiori13/process-injection-arsenal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=process-injection-arsenal&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
 | Project | Focus | ATT&CK |
 |---|---|---|
-| [**cred-harvester**](https://github.com/JMarchiori13/cred-harvester) | Credential access research — LSASS, DPAPI, browser credential stores, SAM offline parsing | T1003.001/.002, T1555.003/.004 |
-| [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection techniques — remote thread, APC, thread hijacking, hollowing, module stomping, mapping | T1055, T1055.012 |
+| [**cred-harvester**](https://github.com/JMarchiori13/cred-harvester) | Credential access — LSASS, DPAPI, browser stores, SAM offline | T1003.001/.002 · T1555.003/.004 |
+| [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection — remote thread, APC, hijacking, hollowing, stomping, mapping | T1055 · T1055.012 |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" alt="cred-harvester — technique × hardening matrix" width="49%">
-  <img src="https://raw.githubusercontent.com/JMarchiori13/process-injection-arsenal/main/docs/assets/technique-comparison.png" alt="process-injection-arsenal — technique comparison" width="49%">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMarchiori13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarchiori13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" height="160">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" width="49%" alt="Technique × hardening matrix"/>
+  <img src="https://raw.githubusercontent.com/JMarchiori13/process-injection-arsenal/main/docs/assets/technique-comparison.png" width="49%" alt="Injection technique comparison"/>
+</div>
 
 ---
 
 ## 🛠️ Stack
 
-`C` `Python` `Rust` `Windows Internals` `MITRE ATT&CK` `Sysmon` `x64dbg`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,rust,powershell,bash,git,github,linux,windows,vscode&theme=dark" />
+
+</div>
 
 ---
 
-*🇧🇷 Brazil — Automation && Maldev*
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JMarchiori13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&icon_color=58a6ff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JMarchiori13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarchiori13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="130"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JMarchiori13/JMarchiori13/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+
+**🇧🇷 Brazil — Automation && Maldev**
+
+</div>
