@@ -26,6 +26,9 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 <a href="https://github.com/JMarchiori13/process-injection-arsenal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=process-injection-arsenal&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
+<a href="https://github.com/JMarchiori13/osint-recon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=osint-recon&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -33,6 +36,7 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 |---|---|---|
 | [**cred-harvester**](https://github.com/JMarchiori13/cred-harvester) | Credential access — LSASS, DPAPI, browser stores, SAM offline | T1003.001/.002 · T1555.003/.004 |
 | [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection — remote thread, APC, hijacking, hollowing, stomping, mapping | T1055 · T1055.012 |
+| [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust — subdomains, DNS, tech fingerprint, emails, doc metadata | T1590 · T1592 · T1593 · T1589 |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" width="49%" alt="Technique × hardening matrix"/>
