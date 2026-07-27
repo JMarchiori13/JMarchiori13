@@ -29,6 +29,9 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 <a href="https://github.com/JMarchiori13/osint-recon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=osint-recon&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
+<a href="https://github.com/JMarchiori13/defender-evasion-research">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=defender-evasion-research&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -36,11 +39,14 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 |---|---|---|
 | [**cred-harvester**](https://github.com/JMarchiori13/cred-harvester) | Credential access — LSASS, DPAPI, browser stores, SAM offline | T1003.001/.002 · T1555.003/.004 |
 | [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection — remote thread, APC, hijacking, hollowing, stomping, mapping | T1055 · T1055.012 |
-| [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust — subdomains, DNS, tech fingerprint, emails, doc metadata | T1590 · T1592 · T1593 · T1589 |
+| [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust — subdomains, DNS, ASN, CT, GitHub dorking, Brazilian context | T1590 · T1591 · T1592 · T1593 · T1589 · T1596 |
+| [**defender-evasion-research**](https://github.com/JMarchiori13/defender-evasion-research) | Windows Defender evasion research — signatures, AMSI, ETW, cloud protection, 2026 verdict matrix | T1562 · T1027 |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" width="49%" alt="Technique × hardening matrix"/>
   <img src="https://raw.githubusercontent.com/JMarchiori13/process-injection-arsenal/main/docs/assets/technique-comparison.png" width="49%" alt="Injection technique comparison"/>
+  <img src="https://raw.githubusercontent.com/JMarchiori13/osint-recon/main/docs/assets/attack-matrix.png" width="49%" alt="OSINT ATT&CK coverage"/>
+  <img src="https://raw.githubusercontent.com/JMarchiori13/defender-evasion-research/main/docs/assets/verdict-matrix.png" width="49%" alt="Defender evasion verdict matrix"/>
 </div>
 
 ---
