@@ -32,6 +32,9 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 <a href="https://github.com/JMarchiori13/defender-evasion-research">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=defender-evasion-research&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
+<a href="https://github.com/JMarchiori13/discord-recon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=discord-recon&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -41,6 +44,7 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 | [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection — remote thread, APC, hijacking, hollowing, stomping, mapping | T1055 · T1055.012 |
 | [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust — subdomains, DNS, ASN, CT, GitHub dorking, Brazilian context | T1590 · T1591 · T1592 · T1593 · T1589 · T1596 |
 | [**defender-evasion-research**](https://github.com/JMarchiori13/defender-evasion-research) | Windows Defender evasion research — signatures, AMSI, ETW, cloud protection, 2026 verdict matrix | T1562 · T1027 |
+| [**discord-recon**](https://github.com/JMarchiori13/discord-recon) | Discord OSINT CLI in Rust — invite/guild/webhook/snowflake/user intel, read-only, keyless + bot tiers | T1593.001 · T1589.002 |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" width="49%" alt="Technique × hardening matrix"/>
