@@ -35,6 +35,9 @@ Security researcher working on Windows offensive tradecraft: credential access, 
 <a href="https://github.com/JMarchiori13/discord-recon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=discord-recon&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
+<a href="https://github.com/JMarchiori13/pentest-harness">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMarchiori13&repo=pentest-harness&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -45,6 +48,7 @@ Security researcher working on Windows offensive tradecraft: credential access, 
 | [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust: subdomains, DNS, ASN, CT, GitHub dorking, Brazilian context | T1590 · T1591 · T1592 · T1593 · T1589 · T1596 |
 | [**defender-evasion-research**](https://github.com/JMarchiori13/defender-evasion-research) | Windows Defender evasion research: signatures, AMSI, ETW, cloud protection, 2026 verdict matrix | T1562 · T1027 |
 | [**discord-recon**](https://github.com/JMarchiori13/discord-recon) | Discord OSINT CLI in Rust: invite/guild/webhook/snowflake/user intel, read-only, keyless + bot tiers | T1593.001 · T1589.002 |
+| [**pentest-harness**](https://github.com/JMarchiori13/pentest-harness) | Modular pentest harness in Rust: plugin architecture, port scanner, subdomain brute, web fuzzer, cred testing | TA0007 · T1046 · T1595 · T1110 |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" width="49%" alt="Technique × hardening matrix"/>
