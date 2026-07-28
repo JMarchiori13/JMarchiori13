@@ -10,9 +10,9 @@
 
 ## 🧠 About
 
-Security researcher focused on **Windows offensive tradecraft** — credential access, process injection and adversary technique analysis. I publish structured, lab-validated research: every technique documented with its **MITRE ATT&CK mapping**, isolated **lab methodology**, and expected results per **hardening stage**.
+Security researcher working on Windows offensive tradecraft: credential access, process injection, and adversary technique analysis. Everything I publish is validated in an isolated lab and mapped to MITRE ATT&CK, with expected results per hardening stage.
 
-> ⚠️ All research is conducted in isolated lab environments and published for educational and authorized red team purposes only.
+> ⚠️ All research here runs in isolated lab environments and is published for educational and authorized red team use only.
 
 ---
 
@@ -40,11 +40,11 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 
 | Project | Focus | ATT&CK |
 |---|---|---|
-| [**cred-harvester**](https://github.com/JMarchiori13/cred-harvester) | Credential access — LSASS, DPAPI, browser stores, SAM offline | T1003.001/.002 · T1555.003/.004 |
-| [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection — remote thread, APC, hijacking, hollowing, stomping, mapping | T1055 · T1055.012 |
-| [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust — subdomains, DNS, ASN, CT, GitHub dorking, Brazilian context | T1590 · T1591 · T1592 · T1593 · T1589 · T1596 |
-| [**defender-evasion-research**](https://github.com/JMarchiori13/defender-evasion-research) | Windows Defender evasion research — signatures, AMSI, ETW, cloud protection, 2026 verdict matrix | T1562 · T1027 |
-| [**discord-recon**](https://github.com/JMarchiori13/discord-recon) | Discord OSINT CLI in Rust — invite/guild/webhook/snowflake/user intel, read-only, keyless + bot tiers | T1593.001 · T1589.002 |
+| [**cred-harvester**](https://github.com/JMarchiori13/cred-harvester) | Credential access: LSASS, DPAPI, browser stores, offline SAM | T1003.001/.002 · T1555.003/.004 |
+| [**process-injection-arsenal**](https://github.com/JMarchiori13/process-injection-arsenal) | Process injection: remote thread, APC, hijacking, hollowing, stomping, mapping | T1055 · T1055.012 |
+| [**osint-recon**](https://github.com/JMarchiori13/osint-recon) | Passive OSINT recon framework in Rust: subdomains, DNS, ASN, CT, GitHub dorking, Brazilian context | T1590 · T1591 · T1592 · T1593 · T1589 · T1596 |
+| [**defender-evasion-research**](https://github.com/JMarchiori13/defender-evasion-research) | Windows Defender evasion research: signatures, AMSI, ETW, cloud protection, 2026 verdict matrix | T1562 · T1027 |
+| [**discord-recon**](https://github.com/JMarchiori13/discord-recon) | Discord OSINT CLI in Rust: invite/guild/webhook/snowflake/user intel, read-only, keyless + bot tiers | T1593.001 · T1589.002 |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JMarchiori13/cred-harvester/main/docs/assets/hardening-matrix.png" width="49%" alt="Technique × hardening matrix"/>
@@ -84,6 +84,6 @@ Security researcher focused on **Windows offensive tradecraft** — credential a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
 
-**🇧🇷 Brazil — Automation && Maldev**
+**🇧🇷 Brazil · Automation && Maldev**
 
 </div>
