@@ -63,7 +63,13 @@ Security researcher working on Windows offensive tradecraft: credential access, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,rust,powershell,bash,git,github,linux,windows,vscode&theme=dark" />
+**Offensive & systems**
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,go,powershell,bash,wasm&theme=dark&perline=8" />
+
+**Platform & tooling**
+
+<img src="https://skillicons.dev/icons?i=windows,linux,git,github,githubactions,docker,vscode,visualstudio&theme=dark&perline=8" />
 
 </div>
 
